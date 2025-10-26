@@ -1,5 +1,15 @@
 # SISTEM-PENGELOLAHAN-SEWA-KOST
 
+Nama Anggota Kelompok:
+
+Muhammad Islami Pasya (2509116108)
+
+Muhammad Aulia Rahman (2509116096)
+
+Muhammad Syafaat Arake (2509116090)
+
+
+
 # 1. Flowchart Menu Utama 
 <img width="1811" height="1692" alt="Untitled Diagram-Menu Utama drawio" src="https://github.com/user-attachments/assets/c823d321-757a-4b9a-9a98-6d7948fd9b47" />
 
