@@ -43,6 +43,8 @@
 ![Gambar WhatsApp 2025-10-26 pukul 18 46 26_9f956a92](https://github.com/user-attachments/assets/792eb4ff-cdc9-4624-b55c-36a75dffe27e)
 
 # 15. Menu 3 User Melihat Riwayat Sewa, Menu ini berfungsi untuk menampilkan catatan semua transaksi penyewaan yang telah dilakukan oleh pengguna yang sedang login.
+![Gambar WhatsApp 2025-10-26 pukul 18 46 27_b99f34c6](https://github.com/user-attachments/assets/cef24c40-eb63-46e8-aff8-7d480fd189a1)
+
 
 # 16. Menu 4 User Cek Saldo, Menu ini berfungsi untuk menampilkan jumlah dana atau uang yang saat ini tersimpan di dalam akun pengguna (penyewa) di sistem tersebut.
  ![Gambar WhatsApp 2025-10-26 pukul 18 46 27_d3b78349](https://github.com/user-attachments/assets/a8fc8966-f378-4f59-bcf4-f2b2a3300dff)
