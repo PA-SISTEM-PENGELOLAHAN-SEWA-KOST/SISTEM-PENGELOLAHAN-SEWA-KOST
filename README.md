@@ -85,6 +85,10 @@ Muhammad Syafaat Arake (2509116090)
 
 #  Menu ini berfungsi untuk melakukan pengisian dana atau penambahan uang ke saldo akun pengguna (penyewa) yang ada di dalam sistem.
 
+# menu 0 
+<img width="598" height="197" alt="Screenshot 2025-10-25 220618" src="https://github.com/user-attachments/assets/2531dfc7-411d-4159-9268-fb5502341a62" />
+
+# Menu Merupakan akhir dari program jika menginputkan 0, pilihan ini adalah satu nya untuk keluar dari program tersebut.
 
 
 
