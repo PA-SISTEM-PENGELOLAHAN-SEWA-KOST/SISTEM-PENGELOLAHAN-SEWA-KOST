@@ -31,7 +31,26 @@
 ![Gambar WhatsApp 2025-10-26 pukul 18 19 54_dfff11d9](https://github.com/user-attachments/assets/7b2ce307-97fd-4dee-85cd-053936183cba)
 
 # 11. Menu 6 Admin Mengubah Status Sewa,Menu ini berfungsi untuk mengelola dan memperbarui kondisi atau status dari transaksi penyewaan kamar yang sedang berjalan.
-![Gambar WhatsApp 2025-10-26 pukul 18 19 54_dfff11d9](https://github.com/user-attachments/assets/e6be103f-876d-48ff-871b-efc82e34ebaf)
+![Gambar WhatsApp 2025-10-26 pukul 18 19 54_71eab0d1](https://github.com/user-attachments/assets/37c3d0f6-fa59-4e2e-bd5d-47533df0361e)
+
+# 12. Menu User, Menu ini berfungsi sebagai pusat layanan bagi penghuni kos, memungkinkan mereka untuk melihat kamar yang tersedia, melakukan sewa kamar, meninjau riwayat sewa pribadi, serta mengelola keuangan melalui fitur cek dan isi saldo sebelum melakukan logout atau menutup program.
+![Gambar WhatsApp 2025-10-26 pukul 18 46 25_9ed1e2d0](https://github.com/user-attachments/assets/83d49210-7187-4baf-8894-ff354bae6dc0)
+
+# 13. Menu 1 User Lihat Kamar Tersedia, Menu ini berfungsi untuk menampilkan daftar kamar kos yang statusnya sedang Tersedia (kosong) dan siap untuk disewa oleh penyewa.
+![Gambar WhatsApp 2025-10-26 pukul 18 46 26_db30a88d](https://github.com/user-attachments/assets/2ff28540-c771-4c5b-8e60-7394cbf5836a)
+
+# 14. Menu 2 User Sewa Kamar, Menu ini memungkinkan penyewa untuk melakukan proses pemesanan dan pembayaran sewa untuk kamar yang telah mereka pilih dari daftar kamar yang tersedia.
+![Gambar WhatsApp 2025-10-26 pukul 18 46 26_9f956a92](https://github.com/user-attachments/assets/792eb4ff-cdc9-4624-b55c-36a75dffe27e)
+
+# 15. Menu 3 User Melihat Riwayat Sewa, Menu ini berfungsi untuk menampilkan catatan semua transaksi penyewaan yang telah dilakukan oleh pengguna yang sedang login.
+
+# 16. Menu 4 User Cek Saldo, Menu ini berfungsi untuk menampilkan jumlah dana atau uang yang saat ini tersimpan di dalam akun pengguna (penyewa) di sistem tersebut.
+ ![Gambar WhatsApp 2025-10-26 pukul 18 46 27_d3b78349](https://github.com/user-attachments/assets/a8fc8966-f378-4f59-bcf4-f2b2a3300dff)
+
+ # 17. Menu 5 User Isi Saldo, Menu ini berfungsi untuk melakukan pengisian dana atau penambahan uang ke saldo akun pengguna (penyewa) yang ada di dalam sistem.
+ ![Gambar WhatsApp 2025-10-26 pukul 18 46 28_24178536](https://github.com/user-attachments/assets/aca2ff6d-6b9c-45dc-ad5a-7c3192cabe69)
+
+
 
 
 
